@@ -37,7 +37,7 @@ main h2 {
 }
 
 main p {
-  margin: 40px;
+  margin: 40px 0;
 }
 
 main section a {
@@ -98,6 +98,7 @@ footer a {
 
   #image-container,
   #about-container {
+    flex: 1;
   }
 
   #image-container {
