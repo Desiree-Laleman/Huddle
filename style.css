@@ -108,4 +108,10 @@ footer a {
   #about-container {
     margin-left: 20px;
   }
+
+  footer {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+  }
 }
